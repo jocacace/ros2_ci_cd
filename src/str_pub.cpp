@@ -4,7 +4,7 @@
 #include <memory>
 
 using namespace std::chrono_literals;
-s
+
 class StringPublisher : public rclcpp::Node
 {
 public:
